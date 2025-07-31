@@ -7,3 +7,6 @@ git add . (multiple file add to git)
 
 # Commit
 git commit -m "meaningful message"
+
+# switch branch
+git checkout branch_name

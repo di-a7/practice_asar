@@ -20,3 +20,6 @@ git branch new_branch_name
 
 # switch branch
 git checkout branch_name
+
+# merge branch
+git merger branch_name

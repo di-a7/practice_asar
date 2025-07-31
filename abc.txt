@@ -1,5 +1,5 @@
-# git initialize
-git initialize
+# git initialize/start
+git init
 
 # Add
 git add file_name (single file add to git)

@@ -8,6 +8,9 @@ git add . (multiple file add to git)
 # Commit
 git commit -m "meaningful message"
 
+#
+this is a change from ram branch
+
 # Set git username and email
 git config --global user.name "your_name"
 git config --global user.email "your_email"

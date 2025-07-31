@@ -1,0 +1,9 @@
+# git initialize
+git initialize
+
+# Add
+git add file_name (single file add to git)
+git add . (multiple file add to git)
+
+# Commit
+git commit -m "meaningful message"

@@ -14,3 +14,6 @@ git config --global user.email "your_email"
 
 # create new branch
 git branch new_branch_name
+
+# switch branch
+git checkout branch_name

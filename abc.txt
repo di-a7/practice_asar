@@ -14,3 +14,20 @@ this is a change from ram branch
 changes
 
 # changes in ram branch
+
+# Set git username and email
+git config --global user.name "your_name"
+git config --global user.email "your_email"
+
+# create new branch
+git branch new_branch_name
+
+# switch branch
+git checkout branch_name
+
+# merge branch
+git merger branch_name
+
+changes
+
+from github

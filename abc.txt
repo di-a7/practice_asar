@@ -23,3 +23,5 @@ git checkout branch_name
 
 # merge branch
 git merger branch_name
+
+changes

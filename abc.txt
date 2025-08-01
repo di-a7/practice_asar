@@ -25,3 +25,5 @@ git checkout branch_name
 git merger branch_name
 
 changes
+
+from github
